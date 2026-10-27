@@ -1,0 +1,6 @@
+# Lokale AI-/Tooling-Dateien (nicht auf Forgejo)
+.agents/
+AGENTS.md
+blueprint/
+repomix.config.json
+.repomixignore
