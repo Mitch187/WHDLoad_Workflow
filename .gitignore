@@ -4,3 +4,6 @@ AGENTS.md
 blueprint/
 repomix.config.json
 .repomixignore
+
+# Lokaler codebase-memory-Index (reproduzierbar, nicht auf Forgejo)
+.codebase-memory/
