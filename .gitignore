@@ -7,3 +7,9 @@ repomix.config.json
 
 # Lokaler codebase-memory-Index (reproduzierbar, nicht auf Forgejo)
 .codebase-memory/
+
+# Laufzeitdaten (Downloads, sortierte und finale Archive, Logs)
+workdir/
+
+# Python-Bytecode
+__pycache__/
